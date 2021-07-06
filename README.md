@@ -38,3 +38,6 @@
       o	Winning Vote Count: 272,892
 
       o	Winning Percentage: 73.8%
+
+# Election Audit Summary:
+-	This script can be used to analyze any election results with the similar dataset. For example, if number of counties or number of candidates changes this script will work with little modification in the looping statement and printing option. In conclusion this will be an excellent tool for the election commission analyze election data very easily and quickly. 
